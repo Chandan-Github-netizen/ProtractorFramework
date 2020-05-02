@@ -20,7 +20,7 @@ describe('demo calculator tests', function () {
         homepage.clickGo1();
         homepage.verifyResult('444')
 
-        browser.sleep(3000)
+        browser.sleep(4000)
 
     });
 
